@@ -36,7 +36,7 @@ The Adidas Sales Dataset includes:
 - **Visualizations**: Graphs, charts, and heatmaps to represent data insights.
 - **Statistical Analysis**: Insights into sales trends and customer behavior.
 
-```
+``
 ## Insights & Recommendations
 
 - The analysis highlights which products are consistently top-sellers.
@@ -49,6 +49,4 @@ The Adidas Sales Dataset includes:
 - Incorporate more datasets, such as competitor data or social media trends.
 - Build a real-time sales monitoring dashboard.
 
-
------------------------------------------------------------------------------
 
